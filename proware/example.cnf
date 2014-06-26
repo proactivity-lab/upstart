@@ -2,4 +2,4 @@ APPDIR=/home/user/proware/bin
 LOGDIR=/var/log/proware
 CONFIG=/somewhere/application/conf/config.ini
 
-SERVICES="timesync bootlogger subsserver commserver"
+SERVICES="maintimesync mainbootlogger mainsubsserver commserver"
